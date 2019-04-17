@@ -1,0 +1,16 @@
+{
+    "name": "alex-xun/demo",
+    "description": "a composer test",
+    "type": "project",
+    "require": {
+        "php": "5.6"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Alex Xun",
+            "email": "xunzhibin@aliyun.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
